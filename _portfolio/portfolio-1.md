@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Yume The Wizard"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
@@ -39,7 +39,7 @@ For the 2024 WWDC scholarship competition, applicants were tasked with creating 
 
 ## Screenshots
 
-![App Screenshot]("/images/YumeTheWizard.png")
+![App Screenshot](../images/YumeTheWizard.png)
 
 ## Impact and Recognition
 
