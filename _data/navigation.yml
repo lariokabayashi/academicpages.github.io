@@ -5,8 +5,9 @@ main:
     
   - title: "Portfolio"
     url: //portfolio/
-  # - title: "Publications"
-  #   url: /publications/
+
+  - title: "English Proficiency"
+    url: /files/Comprovante-Idioma.pdf
 
   # - title: "Talks"
   #   url: /talks/    
