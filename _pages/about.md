@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍💻 I’m a final year graduate student at the State University of Campinas.
-
-🔬 My research interests are in Natural Language Processing for Social Good, Computer Vision and Self-Supervised Learning!
+I’m a final-year Computer Engineering student at the State University of Campinas (Unicamp), currently on an academic exchange at Hamburg University of Applied Sciences (HAW Hamburg). I’m passionate about building ethical, human-centered technology through interdisciplinary collaboration.
 
 # Selected Experience
 
-## 👩🏻‍🔬 Professional Experience
+## Professional Experience
 
-Currently I am working as a Student Researcher at the Artificial Intelligence and Cognitive Architectures Hub (H.IAAC) at the State University of Campinas under the supervision of Prof. Marcos Medeiros Raimundo working on Developing accessible natural language explanations for the field of credit scoring. Additionally, I have professional experience working as an iOS Development Student Researcher at the Apple Developer Academy on the Eldorado Institute of Campinas.
-There I worked in iOS development, structuring interfaces for devices developed by Apple, UX/UI Design, Business and Soft skills.
+I have experience in research, development, and interdisciplinary collaboration across academia and industry. At HAW Hamburg, I work on the DAAD-funded RESI project, developing a data literacy course to support international AI education. Previously, at the Artificial Intelligence and Cognitive Architectures Hub (H.IAAC) at Unicamp, I focused on building interpretable credit scoring explanations using large language models and explainability techniques. At the Apple Developer Academy, I led iOS development projects—four of which were published on the App Store—integrating Core ML, UX/UI design, and business strategy. Earlier, I interned at Gerdau, where I built machine learning models to forecast CO₂ emissions, and participated in Unicamp’s autonomous vehicle team, contributing to real-time computer vision and SLAM systems.
 
-## 🏆 Awards
+## Awards
 
-I was recognized by Apple as one of the top iOS student developers in the world at WWDC 2024 for my project "Yume The Wizard." You can check out my work on the WWDC Scholars site: [WWDC Scholars 2024](https://www.wwdcscholars.com/s/D5ACD9A3-9274-4955-92C1-39677CE7BB56/2024) and on my portfolio: [My Portfolio](https://lariokabayashi.github.io/academicpages.github.io//portfolio/).
+**Distinguished Winner – Apple Swift Student Challenge 2025**  
+Recognized as one of 50 worldwide for *Yume’s Spellbook*, an educational iOS app that gamifies LLM training through interactive storytelling. Integrated a **Core ML-optimized GPT-2 model** with pruning and quantization.  
+[GitHub](https://github.com/lariokabayashi/YumeSpeelbook) | [App Store](https://apps.apple.com/de/app/yumes-spellbook/id6741521708?l=en-GB)
+
+**WWDC 2024 Swift Student Challenge Winner**  
+Selected for *Yume The Wizard*, a Swift-based game that teaches the importance of AI fairness and interpretability in Machine Learning. [GitHub](https://github.com/lariokabayashi/YumeTheWizardWWDC) | [App Store](https://apps.apple.com/br/app/yumethewizard/id6480236327&ved=2ahUKEwjGrYzY_MCOAxXlSPEDHT8DAgoQFnoECBYQAQ&usg=AOvVaw2t9YnRxL21_Zqu4yA_J9WY)
+
+You can find more details about these projects and others in [my Portfolio](https://lariokabayashi.github.io/academicpages.github.io//portfolio/)
