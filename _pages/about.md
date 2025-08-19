@@ -29,4 +29,4 @@ You can find more details about these projects and others in [my Portfolio](http
 Curious to know more about my journey? 
 I’ve been featured in **Apple Newsroom**, **CNN Brasil**, and **Record News**, for my work in AI, innovation, and student entrepreneurship.
 
-Check out the full coverage in the [Media & Press section](/press/)!
+Check out the full coverage in the [Media & Press section](../press/)!
