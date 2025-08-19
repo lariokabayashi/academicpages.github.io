@@ -26,6 +26,8 @@ Selected for *Yume The Wizard*, a Swift-based game that teaches the importance o
 
 You can find more details about these projects and others in [my Portfolio](https://lariokabayashi.github.io/academicpages.github.io//portfolio/)
 
+## Media Highlights
+
 Curious to know more about my journey? 
 I’ve been featured in **Apple Newsroom**, **CNN Brasil**, and **Record News**, for my work in AI, innovation, and student entrepreneurship.
 
