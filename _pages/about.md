@@ -24,11 +24,11 @@ Recognized as one of 50 worldwide for *Yume’s Spellbook*, an educational iOS a
 **WWDC 2024 Swift Student Challenge Winner**  
 Selected for *Yume The Wizard*, a Swift-based game that teaches the importance of AI fairness and interpretability in Machine Learning. [GitHub](https://github.com/lariokabayashi/YumeTheWizardWWDC) | [App Store](https://apps.apple.com/br/app/yumethewizard/id6480236327&ved=2ahUKEwjGrYzY_MCOAxXlSPEDHT8DAgoQFnoECBYQAQ&usg=AOvVaw2t9YnRxL21_Zqu4yA_J9WY)
 
-You can find more details about these projects and others in [my Portfolio](https://lariokabayashi.github.io/academicpages.github.io//portfolio/)
+You can find more details about these projects and others in [my Portfolio](https://lariokabayashi.github.io/academicpages.github.io/portfolio/)
 
 ## Media Highlights
 
 Curious to know more about my journey? 
 I’ve been featured in **Apple Newsroom**, **CNN Brasil**, and **Record News**, for my work in AI, innovation, and student entrepreneurship.
 
-Check out the full coverage in the [Media & Press section](../press/)!
+Check out the full coverage in the [Media & Press section](https://lariokabayashi.github.io/academicpages.github.io/press/)!
