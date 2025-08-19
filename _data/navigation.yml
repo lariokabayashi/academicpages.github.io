@@ -4,7 +4,10 @@ main:
     url: /files/Resume.pdf
     
   - title: "Portfolio"
-    url: //portfolio/
+    url: /portfolio/
+  
+  - title: "Press"
+    url: /press/
 
   - title: "English Proficiency"
     url: /files/Comprovante-Idioma.pdf
