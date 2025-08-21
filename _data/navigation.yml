@@ -1,7 +1,9 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/Resume.pdf
+  # - title: "CV"
+  #   url: /files/Resume.pdf
+  - title: "About"
+    url: /about/
     
   - title: "Portfolio"
     url: /portfolio/
@@ -9,8 +11,8 @@ main:
   - title: "Press"
     url: /press/
 
-  - title: "English Proficiency"
-    url: /files/Comprovante-Idioma.pdf
+  # - title: "English Proficiency"
+  #   url: /files/Comprovante-Idioma.pdf
 
   # - title: "Talks"
   #   url: /talks/    
