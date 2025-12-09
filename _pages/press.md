@@ -57,7 +57,7 @@ Here you can find selected articles and reports that featured my work and projec
 
     <!-- Apple Distinguished Winners -->
   <div style="border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden; background: #fafafa;">
-    <img src="../images/Apple-Distinguished.png" alt="Apple Distinguished Winners" style="width:100%; height:160px; object-fit:cover;">
+    <img src="../images/Apple-Distinguished.jpg" alt="Apple Distinguished Winners" style="width:100%; height:160px; object-fit:cover;">
     <div style="padding: 20px;">
       <h3>Apple – Swift Student Challenge</h3>
       <p><strong>Distinguished Winners – Swift Student Challenge 2025</strong></p>
