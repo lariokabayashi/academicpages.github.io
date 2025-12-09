@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Larissa's Homepage"
+title                    : "Larissa's Portfolio"
 title_separator          : "-"
 name                     : &name "Larissa Okabayashi"
 description              : &description "Enthusiastic IT student with expertise in iOS Development, currently pursuing a degree in Computer Engineering. With a working knowledge of software development and hardware design, I possess a well-rounded technical skil set and a deep passion for technology. I have completed numerous projects during my studies, including personal apps launched on the App Store."

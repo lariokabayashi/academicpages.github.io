@@ -44,4 +44,26 @@ Here you can find selected articles and reports that featured my work and projec
     </div>
   </div>
 
+    <!-- G1 Globo -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden; background: #fafafa;">
+    <img src="../images/G1.jpg" alt="G1 Globo" style="width:100%; height:160px; object-fit:cover;">
+    <div style="padding: 20px;">
+      <h3>G1 – Globo.com</h3>
+      <p><strong>Estudante do interior de SP impressiona CEO da Apple com aplicativo sobre IA</strong></p>
+      <p style="font-size: 0.9em; color: #555;">September 2025</p>
+      <a href="https://g1.globo.com/sp/sao-carlos-regiao/noticia/2025/09/20/estudante-do-interior-de-sp-impressiona-ceo-da-apple-com-aplicativo-sobre-ia.ghtml" target="_blank" style="display:inline-block; margin-top:10px; padding:8px 14px; border-radius:8px; background:#0071e3; color:#fff; text-decoration:none;">Read Article</a>
+    </div>
+  </div>
+
+    <!-- Apple Distinguished Winners -->
+  <div style="border: 1px solid #e0e0e0; border-radius: 12px; overflow: hidden; background: #fafafa;">
+    <img src="../images/Apple-Distinguished.jpg" alt="Apple Distinguished Winners" style="width:100%; height:160px; object-fit:cover;">
+    <div style="padding: 20px;">
+      <h3>Apple – Swift Student Challenge</h3>
+      <p><strong>Distinguished Winners – Swift Student Challenge 2025</strong></p>
+      <p style="font-size: 0.9em; color: #555;">November 2025</p>
+      <a href="https://developer.apple.com/swift-student-challenge/distinguished-winners/" target="_blank" style="display:inline-block; margin-top:10px; padding:8px 14px; border-radius:8px; background:#0071e3; color:#fff; text-decoration:none;">View Page</a>
+    </div>
+  </div>
+
 </div>
