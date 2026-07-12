@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Computer Engineering student at the State University of Campinas (Unicamp), currently on an academic exchange at Hamburg University of Applied Sciences (HAW Hamburg). I’m passionate about building ethical, human-centered technology through interdisciplinary collaboration.
+I’m a final-year Computer Engineering student at the State University of Campinas (Unicamp), based in Campinas, Brazil. I’m passionate about building ethical, human-centered technology through interdisciplinary collaboration.
 
 # Selected Experience
 
