@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="pl-hero">
-  <p class="pl-lead">I’m a final-year Computer Engineering student at the State University of Campinas (Unicamp), based in Campinas / São Paulo, Brazil. I’m a Data &amp; AI Engineer at QuantumBlack, AI by McKinsey, where I design and implement end-to-end machine learning solutions for critical business problems. I’m passionate about building ethical, interpretable, and fair AI — bridging research and applied practice through credit scoring explainability, sustainability analytics, and educational ML apps recognized by Apple.</p>
+  <p class="pl-lead">I recently graduated in Computer Engineering from the State University of Campinas (Unicamp) and currently work as a Data &amp; AI Engineer at QuantumBlack, AI by McKinsey. In my role, I design, build, and deploy end-to-end machine learning solutions that address complex business challenges and bring scalable models into production. I am passionate about creating ethical, interpretable, and fair AI, and my experience bridges the gap between research and real-world application. I’ve worked on projects ranging from explainable credit scoring and sustainability analytics to educational machine learning applications that have been recognized internationally at Apple’s WWDC for their impact.</p>
   <p class="pl-meta-line">São Paulo · QuantumBlack, AI by McKinsey · Unicamp · Apple Swift Student Challenge</p>
   <div class="pl-cta">
     <a class="pl-btn-primary" href="{{ '/files/Resume.pdf' | relative_url }}">Download CV</a>
