@@ -1,27 +1,13 @@
-# main links links
+# main links
 main:
-  # - title: "CV"
-  #   url: /files/Resume.pdf
   - title: "About"
     url: /about/
-    
-  - title: "Portfolio"
+
+  - title: "Work"
     url: /portfolio/
-  
+
   - title: "Press"
     url: /press/
 
-  # - title: "English Proficiency"
-  #   url: /files/Comprovante-Idioma.pdf
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "CV"
+    url: /files/Resume.pdf
