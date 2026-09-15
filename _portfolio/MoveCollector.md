@@ -1,6 +1,8 @@
 ---
 title: "Move Collector"
-excerpt: "Move Collector is a privacy-first iOS app built as Larissa's bachelor's thesis (PFG): it turns an iPhone into a portable motion research instrument, continuously capturing accelerometer, gyroscope, and GPS data and using on-device machine learning to automatically segment the stream into meaningful movement episodes — with every byte kept on the device.<br/><img src='https://lariokabayashi.github.io/academicpages.github.io/images/MoveCollector.png' style='width:100%; max-width:900px; height:auto;'>"
+header:
+  teaser: "MoveCollector.png"
+excerpt: "Privacy-first on-device motion analytics — continuous sensors, Core ML segmentation, zero cloud."
 collection: portfolio
 order: 1
 ---

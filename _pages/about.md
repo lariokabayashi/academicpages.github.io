@@ -1,35 +1,137 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I’m Larissa!"
+title: "Data & AI Engineer building ethical, useful ML systems"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I’m a final-year Computer Engineering student at the State University of Campinas (Unicamp), based in Campinas / São Paulo, Brazil. I’m a **Data & AI Engineer** at QuantumBlack, AI by McKinsey, where I design and implement end-to-end machine learning solutions for critical business problems. I’m passionate about ethical, interpretable, and fair AI—bridging research and applied practice through interpretable credit scoring, sustainability analytics, and educational ML apps recognized by Apple (including a Distinguished Winner award at the Swift Student Challenge 2025).
+<div class="pl-hero">
+  <p class="pl-lead">I design and ship end-to-end machine learning at <strong>QuantumBlack, AI by McKinsey</strong> in São Paulo — with a track record in interpretable AI, on-device LLMs, and product shipped to the App Store.</p>
+  <ul class="pl-chips">
+    <li>QuantumBlack · Data &amp; AI Engineer</li>
+    <li>Apple Distinguished Winner 2025</li>
+    <li>Unicamp · Computer Engineering</li>
+  </ul>
+  <div class="pl-cta">
+    <a class="pl-btn-primary" href="{{ '/files/Resume.pdf' | relative_url }}">Download CV</a>
+    <a class="pl-btn-secondary" href="{{ '/portfolio/' | relative_url }}">See selected work</a>
+    <a class="pl-btn-secondary" href="https://www.linkedin.com/in/larissa-ayumi-okabayashi-ab1648220/" target="_blank" rel="noopener">LinkedIn</a>
+    <a class="pl-btn-secondary" href="mailto:lariokabayashi@gmail.com">Email</a>
+  </div>
+</div>
 
-# Selected Experience
+<div class="pl-section">
+  <h2>Experience</h2>
+  <p class="pl-section-sub">Same facts, easier to scan in under a minute.</p>
+</div>
 
-## Professional Experience
+<ul class="pl-timeline">
+  <li>
+    <div class="pl-card">
+      <p class="pl-role">Data &amp; AI Engineer — QuantumBlack, AI by McKinsey</p>
+      <p class="pl-meta">São Paulo · Full-time · On-site · Sep 2026 – Present</p>
+      <ul>
+        <li>Design and implement end-to-end machine learning solutions for critical business problems.</li>
+        <li>Collaborate with senior data scientists and cross-functional teams on client delivery.</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="pl-card">
+      <p class="pl-role">Artificial Intelligence Intern — QuantumBlack, AI by McKinsey</p>
+      <p class="pl-meta">São Paulo · Hybrid · Apr 2026 – Sep 2026</p>
+      <ul>
+        <li>Designed and implemented end-to-end ML solutions and prototyped scalable GenAI workflows.</li>
+        <li>Supported data pipelines for real-world client challenges.</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="pl-card">
+      <p class="pl-role">Undergraduate Researcher — H.IAAC (Finance &amp; AI), Unicamp</p>
+      <p class="pl-meta">Campinas · Jul 2023 – Aug 2024</p>
+      <ul>
+        <li>Explained credit models with SHAP and Partial Dependence Plots.</li>
+        <li>Integrated LLMs with financial data pipelines for natural-language credit feedback.</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="pl-card">
+      <p class="pl-role">iOS Development Student — Apple Developer Academy / Eldorado</p>
+      <p class="pl-meta">Campinas · Feb 2023 – Dec 2024</p>
+      <ul>
+        <li>Shipped 8+ iOS apps (4 on the App Store) with Core ML, CloudKit, and human-centered design.</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="pl-card">
+      <p class="pl-role">Student Assistant — RESI Project (DAAD), HAW Hamburg</p>
+      <p class="pl-meta">Hamburg · Apr 2025 – Sep 2025</p>
+      <ul>
+        <li>Co-developed a Moodle/H5P data literacy course for 200+ international students.</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <div class="pl-card">
+      <p class="pl-role">Data Science Intern — Gerdau</p>
+      <p class="pl-meta">São Paulo · Dec 2021 – Mar 2022</p>
+      <ul>
+        <li>Built CO₂ emissions models (+15% ESG prediction accuracy) and Power BI dashboards.</li>
+      </ul>
+    </div>
+  </li>
+</ul>
 
-I work across research, product, and industry. At **QuantumBlack, AI by McKinsey** (São Paulo), I’m a **Data & AI Engineer** (full-time, on-site, September 2026 – Present). Previously I was an **Artificial Intelligence Intern** there (April 2026 – September 2026, hybrid), designing and implementing end-to-end machine learning solutions and collaborating with senior data scientists on client challenges. At the **Artificial Intelligence and Cognitive Architectures Hub (H.IAAC)** at Unicamp (July 2023 – August 2024), I researched interpretable credit scoring with SHAP and Partial Dependence Plots and integrated LLMs with financial data pipelines for natural-language feedback on credit decisions. At the **Apple Developer Academy / Eldorado Institute** (February 2023 – December 2024), I shipped 8+ iOS apps (4 on the App Store), combining human-centered design, Agile, Core ML, and CloudKit. At **HAW Hamburg** on the DAAD-funded **RESI** project (April 2025 – September 2025), I co-developed a Moodle/H5P data literacy course for 200+ international students. Earlier, as a **Data Science Intern at Gerdau** (December 2021 – March 2022), I built regression models for CO₂ emissions forecasting (ESG prediction accuracy +15%) and Power BI dashboards, and I participated in Unicamp’s autonomous vehicle team, contributing to real-time path planning and telemetry systems.
+<div class="pl-section">
+  <h2>Awards</h2>
+  <p class="pl-section-sub">Proof points recruiters notice first.</p>
+</div>
 
-## Awards
+<div class="pl-grid">
+  <div class="pl-award">
+    <h3>Distinguished Winner · Swift Student Challenge 2025</h3>
+    <p><em>Yume’s Spellbook</em> — educational LLM training app with Core ML–optimized GPT-2 (pruning + quantization). Presented at Apple HQ to Tim Cook.</p>
+    <p style="margin-top:0.55rem"><a href="https://github.com/lariokabayashi/YumeSpeelbook">GitHub</a> · <a href="https://apps.apple.com/de/app/yumes-spellbook/id6741521708?l=en-GB">App Store</a></p>
+  </div>
+  <div class="pl-award">
+    <h3>Winner · Swift Student Challenge 2024 (WWDC24)</h3>
+    <p><em>Yume The Wizard</em> — teaches AI fairness and dataset diversity through an interactive Swift experience.</p>
+    <p style="margin-top:0.55rem"><a href="https://github.com/lariokabayashi/YumeTheWizardWWDC">GitHub</a> · <a href="https://apps.apple.com/br/app/yumethewizard/id6480236327">App Store</a></p>
+  </div>
+</div>
 
-**Distinguished Winner – Apple Swift Student Challenge 2025**  
-Recognized among 50 winners worldwide for *Yume’s Spellbook*, an educational iOS app that gamifies LLM training through interactive storytelling. Built with a Core ML–optimized GPT-2 model using pruning and quantization. Presented at Apple HQ to Tim Cook; featured in Apple Newsroom and Brazilian media.  
-[GitHub](https://github.com/lariokabayashi/YumeSpeelbook) | [App Store](https://apps.apple.com/de/app/yumes-spellbook/id6741521708?l=en-GB)
+<div class="pl-section">
+  <h2>Selected work</h2>
+  <p class="pl-section-sub">Apps and research with shipped artifacts. <a href="{{ '/portfolio/' | relative_url }}">Open full portfolio →</a></p>
+</div>
 
-**Apple Swift Student Challenge Winner 2024 (WWDC24)**  
-Selected among 350 winners for *Yume The Wizard*, a Swift-based experience teaching AI fairness and dataset diversity in machine learning.  
-[GitHub](https://github.com/lariokabayashi/YumeTheWizardWWDC) | [App Store](https://apps.apple.com/br/app/yumethewizard/id6480236327)
+<div class="pl-grid">
+  <div class="pl-award">
+    <h3>Move Collector</h3>
+    <p>Privacy-first on-device motion ML (bachelor’s thesis) — sensors → embeddings → episode segmentation on iPhone.</p>
+  </div>
+  <div class="pl-award">
+    <h3>Yume’s Spellbook</h3>
+    <p>Gamified LLM training concepts with an on-device GPT-2 pipeline.</p>
+  </div>
+  <div class="pl-award">
+    <h3>Yume The Wizard</h3>
+    <p>Interactive playground on data diversity, fairness, and model validation.</p>
+  </div>
+</div>
 
-You can find more details about these projects and others in [my Portfolio](https://lariokabayashi.github.io/academicpages.github.io/portfolio/)
+<div class="pl-section">
+  <h2>In the press</h2>
+  <p class="pl-section-sub">Featured for AI, innovation, and student entrepreneurship. <a href="{{ '/press/' | relative_url }}">All coverage →</a></p>
+</div>
 
-## Media Highlights
-
-Curious to know more about my journey? 
-I’ve been featured in **Apple Newsroom**, **CNN Brasil**, and **Record News**, for my work in AI, innovation, and student entrepreneurship.
-
-Check out the full coverage in the [Media & Press section](https://lariokabayashi.github.io/academicpages.github.io/press/)!
+<div class="pl-grid">
+  <div class="pl-press"><img src="{{ '/images/Apple.jpg' | relative_url }}" alt="Apple"><div><strong>Apple Newsroom</strong><p>Swift Student Challenge recognition</p></div></div>
+  <div class="pl-press"><img src="{{ '/images/CNN.jpg' | relative_url }}" alt="CNN Brasil"><div><strong>CNN Brasil</strong><p>AI &amp; student innovation</p></div></div>
+  <div class="pl-press"><img src="{{ '/images/Record.jpg' | relative_url }}" alt="Record News"><div><strong>Record News</strong><p>National media feature</p></div></div>
+</div>

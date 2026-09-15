@@ -3,12 +3,16 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+entries_layout: grid
 ---
 
 {% include base_path %}
 
+<p class="pl-section-sub" style="margin-bottom:1.25rem">Selected products and research — shipped apps, on-device ML, and educational AI.</p>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<div class="grid__wrapper">
+{% assign items = site.portfolio | sort: 'order' %}
+{% for post in items %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
-
+</div>
