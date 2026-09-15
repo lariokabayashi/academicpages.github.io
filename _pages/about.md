@@ -1,30 +1,25 @@
 ---
 permalink: /
-title: "Data & AI Engineer building ethical, useful ML systems"
+title: "Hello, I’m Larissa"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <div class="pl-hero">
-  <p class="pl-lead">I design and ship end-to-end machine learning at <strong>QuantumBlack, AI by McKinsey</strong> in São Paulo — with a track record in interpretable AI, on-device LLMs, and product shipped to the App Store.</p>
-  <ul class="pl-chips">
-    <li>QuantumBlack · Data &amp; AI Engineer</li>
-    <li>Apple Distinguished Winner 2025</li>
-    <li>Unicamp · Computer Engineering</li>
-  </ul>
+  <p class="pl-lead">I’m a final-year Computer Engineering student at the State University of Campinas (Unicamp), based in Campinas / São Paulo, Brazil. I’m a Data &amp; AI Engineer at QuantumBlack, AI by McKinsey, where I design and implement end-to-end machine learning solutions for critical business problems. I’m passionate about building ethical, interpretable, and fair AI — bridging research and applied practice through credit scoring explainability, sustainability analytics, and educational ML apps recognized by Apple.</p>
+  <p class="pl-meta-line">São Paulo · QuantumBlack, AI by McKinsey · Unicamp · Apple Swift Student Challenge</p>
   <div class="pl-cta">
     <a class="pl-btn-primary" href="{{ '/files/Resume.pdf' | relative_url }}">Download CV</a>
-    <a class="pl-btn-secondary" href="{{ '/portfolio/' | relative_url }}">See selected work</a>
-    <a class="pl-btn-secondary" href="https://www.linkedin.com/in/larissa-ayumi-okabayashi-ab1648220/" target="_blank" rel="noopener">LinkedIn</a>
+    <a class="pl-btn-secondary" href="{{ '/portfolio/' | relative_url }}">Selected work</a>
+    <a class="pl-btn-secondary" href="https://www.linkedin.com/in/larissa-ayumi-okabayashi-ab1648220/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     <a class="pl-btn-secondary" href="mailto:lariokabayashi@gmail.com">Email</a>
   </div>
 </div>
 
 <div class="pl-section">
   <h2>Experience</h2>
-  <p class="pl-section-sub">Same facts, easier to scan in under a minute.</p>
 </div>
 
 <ul class="pl-timeline">
@@ -43,7 +38,7 @@ redirect_from:
       <p class="pl-role">Artificial Intelligence Intern — QuantumBlack, AI by McKinsey</p>
       <p class="pl-meta">São Paulo · Hybrid · Apr 2026 – Sep 2026</p>
       <ul>
-        <li>Designed and implemented end-to-end ML solutions and prototyped scalable GenAI workflows.</li>
+        <li>Designed and implemented end-to-end ML solutions and prototyped GenAI workflows.</li>
         <li>Supported data pipelines for real-world client challenges.</li>
       </ul>
     </div>
@@ -53,7 +48,7 @@ redirect_from:
       <p class="pl-role">Undergraduate Researcher — H.IAAC (Finance &amp; AI), Unicamp</p>
       <p class="pl-meta">Campinas · Jul 2023 – Aug 2024</p>
       <ul>
-        <li>Explained credit models with SHAP and Partial Dependence Plots.</li>
+        <li>Applied SHAP and Partial Dependence Plots to explain credit score models.</li>
         <li>Integrated LLMs with financial data pipelines for natural-language credit feedback.</li>
       </ul>
     </div>
@@ -89,49 +84,55 @@ redirect_from:
 
 <div class="pl-section">
   <h2>Awards</h2>
-  <p class="pl-section-sub">Proof points recruiters notice first.</p>
 </div>
 
 <div class="pl-grid">
   <div class="pl-award">
     <h3>Distinguished Winner · Swift Student Challenge 2025</h3>
-    <p><em>Yume’s Spellbook</em> — educational LLM training app with Core ML–optimized GPT-2 (pruning + quantization). Presented at Apple HQ to Tim Cook.</p>
-    <p style="margin-top:0.55rem"><a href="https://github.com/lariokabayashi/YumeSpeelbook">GitHub</a> · <a href="https://apps.apple.com/de/app/yumes-spellbook/id6741521708?l=en-GB">App Store</a></p>
+    <p><em>Yume’s Spellbook</em> — an educational app that gamifies LLM training with a Core ML–optimized GPT-2 model. Presented at Apple HQ to Tim Cook.</p>
+    <p style="margin-top:0.5rem"><a href="https://github.com/lariokabayashi/YumeSpeelbook">GitHub</a> · <a href="https://apps.apple.com/de/app/yumes-spellbook/id6741521708?l=en-GB">App Store</a></p>
   </div>
   <div class="pl-award">
-    <h3>Winner · Swift Student Challenge 2024 (WWDC24)</h3>
-    <p><em>Yume The Wizard</em> — teaches AI fairness and dataset diversity through an interactive Swift experience.</p>
-    <p style="margin-top:0.55rem"><a href="https://github.com/lariokabayashi/YumeTheWizardWWDC">GitHub</a> · <a href="https://apps.apple.com/br/app/yumethewizard/id6480236327">App Store</a></p>
+    <h3>Winner · Swift Student Challenge 2024</h3>
+    <p><em>Yume The Wizard</em> — explores dataset diversity and AI fairness through an interactive Swift experience (WWDC24).</p>
+    <p style="margin-top:0.5rem"><a href="https://github.com/lariokabayashi/YumeTheWizardWWDC">GitHub</a> · <a href="https://apps.apple.com/br/app/yumethewizard/id6480236327">App Store</a></p>
   </div>
 </div>
 
 <div class="pl-section">
   <h2>Selected work</h2>
-  <p class="pl-section-sub">Apps and research with shipped artifacts. <a href="{{ '/portfolio/' | relative_url }}">Open full portfolio →</a></p>
 </div>
 
 <div class="pl-grid">
-  <div class="pl-award">
+  <a class="pl-award" href="{{ '/portfolio/' | relative_url }}" style="text-decoration:none;color:inherit">
     <h3>Move Collector</h3>
-    <p>Privacy-first on-device motion ML (bachelor’s thesis) — sensors → embeddings → episode segmentation on iPhone.</p>
-  </div>
-  <div class="pl-award">
+    <p>Privacy-first on-device motion ML for my bachelor’s thesis — sensors to episode segmentation on iPhone.</p>
+  </a>
+  <a class="pl-award" href="{{ '/portfolio/' | relative_url }}" style="text-decoration:none;color:inherit">
     <h3>Yume’s Spellbook</h3>
     <p>Gamified LLM training concepts with an on-device GPT-2 pipeline.</p>
-  </div>
-  <div class="pl-award">
+  </a>
+  <a class="pl-award" href="{{ '/portfolio/' | relative_url }}" style="text-decoration:none;color:inherit">
     <h3>Yume The Wizard</h3>
     <p>Interactive playground on data diversity, fairness, and model validation.</p>
-  </div>
+  </a>
 </div>
 
 <div class="pl-section">
   <h2>In the press</h2>
-  <p class="pl-section-sub">Featured for AI, innovation, and student entrepreneurship. <a href="{{ '/press/' | relative_url }}">All coverage →</a></p>
 </div>
 
 <div class="pl-grid">
-  <div class="pl-press"><img src="{{ '/images/Apple.jpg' | relative_url }}" alt="Apple"><div><strong>Apple Newsroom</strong><p>Swift Student Challenge recognition</p></div></div>
-  <div class="pl-press"><img src="{{ '/images/CNN.jpg' | relative_url }}" alt="CNN Brasil"><div><strong>CNN Brasil</strong><p>AI &amp; student innovation</p></div></div>
-  <div class="pl-press"><img src="{{ '/images/Record.jpg' | relative_url }}" alt="Record News"><div><strong>Record News</strong><p>National media feature</p></div></div>
+  <a class="pl-press" href="{{ '/press/' | relative_url }}">
+    <img src="{{ '/images/Apple.jpg' | relative_url }}" alt="Apple Newsroom">
+    <div><strong>Apple Newsroom</strong><p>Swift Student Challenge</p></div>
+  </a>
+  <a class="pl-press" href="{{ '/press/' | relative_url }}">
+    <img src="{{ '/images/CNN.jpg' | relative_url }}" alt="CNN Brasil">
+    <div><strong>CNN Brasil</strong><p>AI &amp; student innovation</p></div>
+  </a>
+  <a class="pl-press" href="{{ '/press/' | relative_url }}">
+    <img src="{{ '/images/Record.jpg' | relative_url }}" alt="Record News">
+    <div><strong>Record News</strong><p>National media feature</p></div>
+  </a>
 </div>
